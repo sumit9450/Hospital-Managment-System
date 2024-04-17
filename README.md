@@ -1,4 +1,3 @@
-# Hospital-Managment-System
 CREATE TABLE Patient (
 SID_P INTEGER NOT NULL,
 PatientID_P INTEGER,
